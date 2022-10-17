@@ -1,1 +1,1 @@
-# practice-cicd-mvm-nexus-sonar-vs
+# practice-cicd-mvm-nexus-sonar-v2
